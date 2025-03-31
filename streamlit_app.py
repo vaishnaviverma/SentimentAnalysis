@@ -27,3 +27,8 @@ if st.button("Analyze Sentiment"):
         st.markdown(f"**Sentiment:** {sentiment}")
         st.markdown(f"**Confidence:** `{confidence}`")
 
+"""To run:
+streamlit run streamlit_app.py
+
+"""
+
