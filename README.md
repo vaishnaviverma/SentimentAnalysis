@@ -1,4 +1,4 @@
-# IMDB Sentiment Analysis
+# IMDb Sentiment Analysis
 
 This project uses a neural network to classify movie reviews as positive or negative using the IMDb dataset. It's built with TensorFlow/Keras and demonstrates an end-to-end pipeline for training, evaluating, and testing a sentiment analysis model.
 
