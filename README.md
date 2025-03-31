@@ -9,4 +9,5 @@ This project uses a neural network to classify movie reviews as positive or nega
 - Trains a simple neural network with an embedding layer
 - Evaluates performance with accuracy, precision, recall, and F1 score
 - Accepts custom user input for real-time sentiment prediction
-
+- Provides a REST API using FastAPI
+- Includes an interactive Streamlit web interface
